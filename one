@@ -1,0 +1,6 @@
+查看路径 import os os.getcwd() 查看当前 os.chdir(""）)切换目录
+
+当前执行的Python脚本的文件名 import sys print(sys.argv[0])
+pip easy_isntall的安装
+
+jupyter notebook ./python #调出系统默认的python2.7 Python #调出用户默认的python3.6
